@@ -28,7 +28,7 @@ nav {
 }
 .drop-li:hover .drop-down{
     visibility: visible;
-    top: 170%;
+    top: 100%;
 }
 .drop-down li{
     margin-bottom: 20px;
